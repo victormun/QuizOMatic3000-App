@@ -1,0 +1,65 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz-O-Matic 3000</string>
+
+    <!-- Question & answers 1-->
+    <string name="q1">Is the Eiffel Tower the tallest building in the world?</string>
+    <string name="a1_yes">Yes, of course!</string>
+    <string name="a1_no">Oh hell, no!</string>
+
+    <!-- Question & answers 2-->
+    <string name="q2">Each minute, creators upload 1 hour of video content to YouTube.</string>
+    <string name="a2_yes">Yes, that\'s accurate!</string>
+    <string name="a2_no">That\'s impossible.</string>
+
+    <!-- Question & answers 3-->
+    <string name="q3">How many wives did King Henry VIII have during his life?</string>
+    <string name="a3_yes">6 wives, no less.</string>
+    <string name="a3_no">He had 8, just like his name.</string>
+
+    <!-- Question & answers 4-->
+    <string name="q4">When did the luxurious Titanic sink?</string>
+    <string name="a4_yes">On the evening of March 14th, 1912.</string>
+    <string name="a4_no">On the night of April 14th, 1912.</string>
+
+    <!-- Question & answers 5-->
+    <string name="q5">What is the largest river in the world?</string>
+    <string name="a5_hint">Example: Longriver</string>
+    <string name="a5_answer">Amazon</string>
+
+    <!-- Question & answers 6-->
+    <string name="q6">What movies were released on 2017?</string>
+    <string name="a6_1">Star Wars:  Ep.8</string>
+    <string name="a6_2">La La Land</string>
+    <string name="a6_3">Wonder Woman</string>
+    <string name="a6_4">Suicide Squad</string>
+
+    <!-- Question & answers 7-->
+    <string name="q7">How many cells does an amoeba have?</string>
+    <string name="a7_yes">Just 1.</string>
+    <string name="a7_no">2, it was the first multicellular being.</string>
+
+    <!-- Question & answers 8-->
+    <string name="q8">When was the first smartphone released?</string>
+    <string name="a8_yes">In 1994, like the Lion King.</string>
+    <string name="a8_no">In 1993, like Jurassic Park.</string>
+
+    <!-- Question & answers 9-->
+    <string name="q9">How many legs does an insect have?</string>
+    <string name="a9_yes">Eugh! I\'m sure it\'s 8 legs.</string>
+    <string name="a9_no">Gross! But 6 legs!</string>
+
+    <!-- Question & answers 10-->
+    <string name="q10">How many Star Wars movies are there?</string>
+    <string name="a10_yes">I\'m a big fan and I know it\'s 10.</string>
+    <string name="a10_no">The Force tells me it\'s 8.</string>
+
+    <!-- Question & answers 10-->
+    <string name="button">Check answers!</string>
+
+    <!-- Toast messages-->
+    <string name="toast_win">Congratulations! :)\n\nYou have all the answers right!</string>
+    <string name="toast_errors">Ohhhhhh! :(\nYou have <xliff:g id="numberOfErrors" example="5">%d
+    </xliff:g> errors, <xliff:g id="numberOfRight" example="5">%d</xliff:g> right answers and
+        <xliff:g id="numberOfUnanswered" example="5">%d</xliff:g> questions without answer.\n\nPlease try again!
+    </string>
+</resources>

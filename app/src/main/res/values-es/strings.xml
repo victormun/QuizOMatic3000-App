@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz-O-Matic 3000</string>
+    <string name="q1">¿Es la Torre Eiffel el edificio más alto del mundo?</string>
+    <string name="a1_yes">¡Sí, por supuesto!</string>
+    <string name="a1_no">¡Ni hablar!</string>
+    <string name="q2">En un minuto se sube 1 hora de contenido de vídeo a Youtube.</string>
+    <string name="a2_yes">Sí, parece correcto.</string>
+    <string name="a2_no">Es imposible.</string>
+    <string name="q3">¿Cuántas esposas tuvo Enrique VIII a lo largo de su vida?</string>
+    <string name="a3_yes">6, ni más ni menos.</string>
+    <string name="a3_no">Tuvo 8, como su nombre.</string>
+    <string name="q4">¿Cúando se hundió el lujoso Titanic?</string>
+    <string name="a4_yes">En la madrugada del 14 de marzo de 1912.</string>
+    <string name="a4_no">En la noche del 14 de abril de 1912.</string>
+    <string name="q5">¿Cuál es el río más largo del mundo?</string>
+    <string name="a5_hint">Ejemplo: Río Largo</string>
+    <string name="a5_answer">Amazonas</string>
+    <string name="q6">¿Qué películas se lanzaron en 2017?</string>
+    <string name="a6_1">Star Wars:  Ep.8</string>
+    <string name="a6_2">La La Land</string>
+    <string name="a6_3">Wonder Woman</string>
+    <string name="a6_4">Escuadrón Suicida</string>
+    <string name="q7">¿Cuántas células tiene una ameba?</string>
+    <string name="a7_yes">Sólo 1.</string>
+    <string name="a7_no">2. Es el primer organismo multicelular.</string>
+    <string name="q8">¿Cuándo se lanzó el primer smartphone?</string>
+    <string name="a8_yes">En 1994, como el Rey León.</string>
+    <string name="a8_no">En 1993, como Jurassic Park.</string>
+    <string name="q9">¿Cuántas patas tiene un insecto?</string>
+    <string name="a9_yes">¡Ajj! Seguro que 8.</string>
+    <string name="a9_no">¡Qué asco! Pero 6 patas.</string>
+    <string name="q10">¿Cuantas películas de Star Wars hay?</string>
+    <string name="a10_yes">Soy un gran fan y sé que son 10.</string>
+    <string name="a10_no">La Fuerza me dice que son 8.</string>
+    <string name="button">¡Comprobar respuestas!</string>
+    <string name="toast_win">¡Felicidades! :)\n\n¡Has acertado correctamente todas las respuestas!</string>
+    <string name="toast_errors">¡Ohhhhhh! :(\nTienes <xliff:g id="numberOfErrors" example="5">%d
+    </xliff:g> errores, <xliff:g id="numberOfRight" example="5">%d</xliff:g> respuestas correctas y
+        <xliff:g id="numberOfUnanswered" example="5">%d</xliff:g> preguntas sin resolver.\n\nPor favor, ¡inténtalo de nuevo!
+    </string>
+</resources>
